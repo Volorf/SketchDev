@@ -1,8 +1,8 @@
-// Get an array with all selected layers
+// Get an array with all selected objects
 var selectedLayers = context.selection,
 
-// Get first layer from this array
+// Get first object from this array
 selectedLayer = selectedLayers.firstObject();
 
-// Show all property of this layer
+// Show all property of this object
 log(selectedLayer.treeAsDictionary());
