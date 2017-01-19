@@ -1,3 +1,5 @@
+// Text layer was selected
+
 {
     "<class>" = MSTextLayer;
     attributedString =     {
